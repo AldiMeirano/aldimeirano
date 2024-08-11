@@ -1,4 +1,4 @@
-[![MasterHead](https://img.wattpad.com/b4868ad2581c3bdf31face2e7a9560e597fdcca3/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f434a774a535331787239585971673d3d2d313432363138393337332e313762393730623534363732656435663939333531313636373231322e676966)]
+
 <h1 align="center">Hi 👋, I'm Aldi Meirano</h1>
 <h3 align="center">A passionate Software development from Indonesia</h3>
 <img align="right" src="https://gifsec.com/wp-content/uploads/2022/11/retro-anime-gif-34.gif" alt="code" width="400" />
